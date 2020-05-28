@@ -97,6 +97,7 @@
 }
 
 /* Switzerland */
+
 .flag-switzerland {
   background-color: red;
   width: 600px;
@@ -122,4 +123,33 @@
   position: absolute;
   bottom: 50px;
   right: 220px;
+}
+
+/* Sweden */
+
+.flag-sweden {
+  background-color: blue;
+  width: 600px;
+  height: 600px;
+  margin: 2em auto;
+  border: 2px solid black;
+  position: relative;
+}
+
+.sweden-color-1 {
+  background-color: gold;
+  width: 100%;
+  height: 120px;
+  position: absolute;
+  top: 240px;
+  /* left: 60px; */
+}
+
+.sweden-color-2 {
+  background-color: gold;
+  width: 120px;
+  height: 100%;
+  position: absolute;
+  /* bottom: 50px; */
+  right: 300px;
 }
