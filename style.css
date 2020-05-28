@@ -242,3 +242,83 @@
   top: 150px;
   left: 150px;
 }
+
+/* Greece */
+.flag-greece {
+  background-color: blue;
+  width: 600px;
+  height: 550px;
+  margin: 2em auto;
+  border: 2px solid black;
+  position: relative;
+}
+
+.greece-color-1 {
+  background-color: blue;
+  width: 50%;
+  height: 250px;
+  position: absolute;
+}
+
+.greece-color-2 {
+  background-color: white;
+  width: 50%;
+  height: 50px;
+  position: absolute;
+  top: 100px;
+  left: 0;
+}
+
+.greece-color-3 {
+  background-color: white;
+  width: 50px;
+  height: 47%;
+  position: absolute;
+  top: 0;
+  left: 120px;
+}
+
+.greece-color-4 {
+  background-color: white;
+  width: 50%;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 50px;
+}
+
+.greece-color-5 {
+  background-color: white;
+  width: 50%;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 150px;
+}
+
+.greece-color-6 {
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 250px;
+}
+
+.greece-color-7 {
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 350px;
+}
+
+.greece-color-8 {
+  background-color: white;
+  width: 100%;
+  height: 50px;
+  position: absolute;
+  right: 0;
+  top: 450px;
+}
