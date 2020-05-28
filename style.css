@@ -142,7 +142,6 @@
   height: 120px;
   position: absolute;
   top: 240px;
-  /* left: 60px; */
 }
 
 .sweden-color-2 {
@@ -150,6 +149,39 @@
   width: 120px;
   height: 100%;
   position: absolute;
-  /* bottom: 50px; */
   right: 300px;
+}
+
+/* Gambia */
+
+.flag-gambia {
+  background-color: white;
+  width: 600px;
+  height: 600px;
+  margin: 2em auto;
+  border: 2px solid black;
+  position: relative;
+}
+
+.gambia-color-1 {
+  background-color: red;
+  width: 100%;
+  height: 180px;
+  position: absolute;
+}
+
+.gambia-color-2 {
+  background-color: blue;
+  width: 100%;
+  height: 190px;
+  position: absolute;
+  top: 200px;
+}
+
+.gambia-color-3 {
+  background-color: green;
+  width: 100%;
+  height: 180px;
+  position: absolute;
+  bottom: 0;
 }
