@@ -95,3 +95,31 @@
   bottom: 0;
   right: 0;
 }
+
+/* Switzerland */
+.flag-switzerland {
+  background-color: red;
+  width: 600px;
+  height: 600px;
+  margin: 2em auto;
+  border: 2px solid black;
+  position: relative;
+}
+
+.switzerland-color-1 {
+  background-color: white;
+  width: 80%;
+  height: 140px;
+  position: absolute;
+  top: 240px;
+  left: 60px;
+}
+
+.switzerland-color-2 {
+  background-color: white;
+  width: 140px;
+  height: 80%;
+  position: absolute;
+  bottom: 50px;
+  right: 220px;
+}
