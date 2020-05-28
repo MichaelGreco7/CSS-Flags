@@ -322,3 +322,38 @@
   right: 0;
   top: 450px;
 }
+
+/* Niger */
+.flag-niger {
+  background-color: white;
+  width: 600px;
+  height: 600px;
+  margin: 2em auto;
+  border: 2px solid black;
+  position: relative;
+}
+
+.niger-color-1 {
+  background-color: orange;
+  width: 100%;
+  height: 200px;
+  position: absolute;
+}
+
+.niger-color-2 {
+  background-color: orange;
+  position: absolute;
+  height: 180px;
+  width: 180px;
+  border-radius: 50%;
+  top: 205px;
+  left: 200px;
+}
+
+.niger-color-3 {
+  background-color: green;
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  bottom: 0;
+}
