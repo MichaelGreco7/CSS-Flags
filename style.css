@@ -68,3 +68,30 @@
   position: absolute;
   bottom: 0;
 }
+
+/* Madagascar */
+
+.madagascar-color-1 {
+  background-color: white;
+  width: 200px;
+  height: 100%;
+  position: absolute;
+}
+
+.madagascar-color-2 {
+  background-color: red;
+  width: 395px;
+  height: 300px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.madagascar-color-3 {
+  background-color: green;
+  width: 395px;
+  height: 300px;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
